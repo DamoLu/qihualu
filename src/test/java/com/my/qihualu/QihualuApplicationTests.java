@@ -1,4 +1,4 @@
-package com.example.my.qihualu;
+package com.my.qihualu;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.example.my.qihualu;
+package com.my.qihualu;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
